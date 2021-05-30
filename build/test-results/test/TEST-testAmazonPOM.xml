@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testAmazonPOM" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-30T16:29:51" hostname="DESKTOP-5L7N2A8" time="3.204">
+  <properties/>
+  <testcase name="testAmazon" classname="testAmazonPOM" time="3.204"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 48224
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1622392189.649][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+mai 30, 2021 6:29:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+]]></system-err>
+</testsuite>
